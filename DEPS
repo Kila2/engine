@@ -449,9 +449,9 @@ hooks = [
         '--platform=28',
         '--platform-revision=6',
         '--build-tools-version=28.0.3',
-        '--platform-tools-version=28.0.1',
+        '--platform-tools-version=29.0.1',
         '--tools-version=26.1.1',
-        '--ndk-version=19.1.5304403'
+        '--ndk-version=19.2.5345600'
     ],
   },
   # TODO(dnfield): This can be enabled when we actually support building
